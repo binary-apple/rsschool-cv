@@ -1,5 +1,7 @@
 # Anna Perevedentseva 
 
+<img src="photo_2022-09-07_22-53-28.jpg" width="200">
+
 ## Contact information
 
 **Email:** anna.pereved@gmail.com  
@@ -8,9 +10,29 @@
 **Discord:** Nia (@binary-apple)
 
 ## About 
+Ex-insurance analyst switching into frontend development.
 
 ## Experience
-## Skills
+SAO "RESO-Garantia"  
+Actuary  
+Jul 2015 - Aug 2020, 5 years 2 months  
+
+## Skills & Projects
+- PL/SQL
+- R
+- HTML
+- CSS
+- JavaScript
+
+### Code example
+```
+function multiply(a, b){
+  return a * b
+}
+```
+### Completed projects
+[CV](https://github.com/binary-apple/rsschool-cv)
+
 ## Education
 - **Lomonosov Moscow State University (MSU)**  
 Specialist, Mathematical Cybernetics  
@@ -21,5 +43,5 @@ JavaScript/Frontend course
 ## Languages
 - **Russian** - native speaker
 - **English** - upper-intermediate
-- **German** - intermediate in progress
+- **German** - intermediate
 
