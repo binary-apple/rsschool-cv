@@ -1,6 +1,6 @@
 # Anna Perevedentseva 
 
-<img src="photo_2022-09-07_22-53-28.jpg" width="200">
+<img src="picture_for_cv.jpg" width="200">
 
 ## Contact information
 
