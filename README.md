@@ -1,1 +1,1 @@
-https://binary-apple.github.io/rsschool-cv/cv
+https://binary-apple.github.io/rsschool-cv/
